@@ -1,0 +1,164 @@
+Axel Naumann:
+  name        : "Axel Naumann"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Jonas Rembser:
+  name        : "Jonas Rembser"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Lorenzo Moneta:
+  name        : "Lorenzo Moneta"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Joost Pennings:
+  name        : "Joost Pennings"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Marjolein Verhulst:
+  name        : "Marjolein Verhulst"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Philippe Debie:
+  name        : "Philippe Debie"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Paul van Leeuwen:
+  name        : "Paul van Leeuwen"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Koos Gardebroek:
+  name        : "Koos Gardebroek"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Andres Trujillo-Barrera:
+  name        : "Andres Trujillo-Barrera"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Serdar Demirel:
+  name        : "Serdar Demirel"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
+
+Tarek Alskaif:
+  name        : "Tarek Alskaif"
+  bio         : "Something something"
+  avatar      : #"/assets/images/bio-photo-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: #"mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: #"https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: #"https://twitter.com/extravagantman"
