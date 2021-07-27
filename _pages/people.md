@@ -69,9 +69,10 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=4610" alt="Joost" style="width:100%">
       <div class="container">
-        <h2>Jane Doe</h2>
-        <p class="title">CEO & Founder</p>
+        <h2>Joost Pennings</h2>
+        <p class="title">Professor</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
@@ -81,10 +82,10 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="https://root.cern/assets/images/AN.jpg" alt="Mike" style="width:100%">
+      <img src="https://root.cern/assets/images/AN.jpg" alt="Axel" style="width:100%">
       <div class="container">
-        <h2>Mike Ross</h2>
-        <p class="title">Art Director</p>
+        <h2>Axel Naumann</h2>
+        <p class="title">Senior Expert Data Analytics</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
         <p><button class="button">Contact</button></p>
