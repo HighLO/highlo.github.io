@@ -58,8 +58,7 @@ html {
       <div class="container">
         <h2>Joost Pennings</h2>
         <p class="title">Professor</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University & Research <br> Maastricht University <br> University of Illinois at Urbana-Champaign</p>
       </div>
     </div>
   </div>
@@ -70,8 +69,7 @@ html {
       <div class="container">
         <h2>Axel Naumann</h2>
         <p class="title">Senior Expert Data Analytics</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>CERN</p>
       </div>
     </div>
   </div>
@@ -82,8 +80,8 @@ html {
       <div class="container">
         <h2>Marjolein Verhulst</h2>
         <p class="title">PhD Student & Researcher</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University</p>
+        <p>Wageningen Economic Research</p>
       </div>
     </div>
   </div>
@@ -154,7 +152,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="http://cormec.eu/wp-content/uploads/2017/11/andrestrujillo.jpg" alt="Andres" style="width:100%">
+      <img src="https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/cals/departments/aers/People/1200x1200-andres-trujillo-barrera.jpg" alt="Andres" style="width:100%">
       <div class="container">
         <h2>Andres Trujillo-Barrera</h2>
         <p class="title">Assistant Professor</p>
