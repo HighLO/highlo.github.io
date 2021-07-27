@@ -51,6 +51,42 @@ html {
 </head>
 <body>
 
+<h1>CERN</h1>
+<hr>
+<div class="row">
+   <div class="column">
+    <div class="card">
+      <img src="https://root.cern/assets/images/AN.jpg" alt="Axel" style="width:100%">
+      <div class="container">
+        <h2>Dr. Axel Naumann</h2>
+        <p class="title">Senior Expert Data Analytics</p>
+      </div>
+    </div>
+  </div>
+
+   <div class="column">
+    <div class="card">
+      <img src="https://root.cern/assets/images/LM.jpg" alt="Lorenzo" style="width:100%">
+      <div class="container">
+        <h2>Dr. Lorenzo Moneta</h2>
+        <p class="title">Senior Expert Machine Learning and Statistics</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://root.cern/assets/images/JonasRembser.png" alt="Jonas" style="width:100%">
+      <div class="container">
+        <h2>Dr. Jonas Rembser</h2>
+        <p class="title">Senior Applied Fellow</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1>Wageningen University & Research</h1>
+<hr>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -58,68 +94,26 @@ html {
       <div class="container">
         <h2>Prof.dr.ir. Joost Pennings</h2>
         <p class="title">Professor</p>
-        <p>Wageningen University & Research</p>
-        <p>Maastricht University</p>
-        <p>University of Illinois at Urbana-Champaign</p>
       </div>
     </div>
   </div>
 
-  <div class="column">
-    <div class="card">
-      <img src="https://root.cern/assets/images/AN.jpg" alt="Axel" style="width:100%">
-      <div class="container">
-        <h2>Dr. Axel Naumann</h2>
-        <p class="title">Senior Expert Data Analytics</p>
-        <p>CERN</p>
-      </div>
-    </div>
-  </div>
-  
   <div class="column">
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=89041" alt="Marjolein" style="width:100%">
       <div class="container">
         <h2>Marjolein Verhulst</h2>
         <p class="title">PhD Student & Researcher</p>
-        <p>Wageningen University & Research</p>
-        <p>Wageningen Economic Research</p>
       </div>
     </div>
   </div>
-</div>
 
-<div class="row">
   <div class="column">
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=97866" alt="Philippe" style="width:100%">
       <div class="container">
         <h2>Philippe Debie</h2>
         <p class="title">PhD Student & Researcher</p>
-        <p>Wageningen University & Research</p>
-        <p>Wageningen Economic Research</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
-      <img src="https://root.cern/assets/images/LM.jpg" alt="Lorenzo" style="width:100%">
-      <div class="container">
-        <h2>Dr. Lorenzo Moneta</h2>
-        <p class="title">Senior Expert Machine Learning and Statistics</p>
-        <p>CERN</p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="https://root.cern/assets/images/JonasRembser.png" alt="Jonas" style="width:100%">
-      <div class="container">
-        <h2>Dr. Jonas Rembser</h2>
-        <p class="title">Senior Applied Fellow</p>
-        <p>CERN</p>
       </div>
     </div>
   </div>
@@ -132,7 +126,6 @@ html {
       <div class="container">
         <h2>Paul van Leeuwen</h2>
         <p class="title">Senior Data Scientist</p>
-        <p>Wageningen Economic Research</p>
       </div>
     </div>
   </div>
@@ -143,18 +136,16 @@ html {
       <div class="container">
         <h2>Dr.ir. Koos Gardebroek</h2>
         <p class="title">Associate Professor</p>
-        <p>Wageningen University & Research</p>
       </div>
     </div>
   </div>
-  
+
   <div class="column">
     <div class="card">
-      <img src="https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/cals/departments/aers/People/1200x1200-andres-trujillo-barrera.jpg" alt="Andres" style="width:100%">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=98594" alt="Serdar" style="width:100%">
       <div class="container">
-        <h2>Dr. Andres Trujillo-Barrera</h2>
-        <p class="title">Assistant Professor</p>
-        <p>University of Idaho</p>
+        <h2>Dr. Serdar Demirel</h2>
+        <p class="title">Data Scientist</p>
       </div>
     </div>
   </div>
@@ -163,22 +154,24 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=98594" alt="Serdar" style="width:100%">
-      <div class="container">
-        <h2>Dr. Serdar Demirel</h2>
-        <p class="title">Data Scientist</p>
-        <p>Wageningen University & Research</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="column">
-    <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446" alt="Tarek" style="width:100%">
       <div class="container">
         <h2>Dr. Tarek AlSkaif</h2>
         <p class="title">Assistant Professor</p>
-        <p>Wageningen University & Research</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1>University of Idaho</h1>
+<hr>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/cals/departments/aers/People/1200x1200-andres-trujillo-barrera.jpg" alt="Andres" style="width:100%">
+      <div class="container">
+        <h2>Dr. Andres Trujillo-Barrera</h2>
+        <p class="title">Assistant Professor</p>
       </div>
     </div>
   </div>
