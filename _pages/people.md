@@ -56,9 +56,11 @@ html {
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=4610" alt="Joost" style="width:100%">
       <div class="container">
-        <h2>Joost Pennings</h2>
+        <h2>Prof.dr.ir. Joost Pennings</h2>
         <p class="title">Professor</p>
-        <p>Wageningen University & Research <br> Maastricht University <br> University of Illinois at Urbana-Champaign</p>
+        <p>Wageningen University & Research</p>
+        <p>Maastricht University</p>
+        <p>University of Illinois at Urbana-Champaign</p>
       </div>
     </div>
   </div>
@@ -67,7 +69,7 @@ html {
     <div class="card">
       <img src="https://root.cern/assets/images/AN.jpg" alt="Axel" style="width:100%">
       <div class="container">
-        <h2>Axel Naumann</h2>
+        <h2>Dr. Axel Naumann</h2>
         <p class="title">Senior Expert Data Analytics</p>
         <p>CERN</p>
       </div>
@@ -80,7 +82,7 @@ html {
       <div class="container">
         <h2>Marjolein Verhulst</h2>
         <p class="title">PhD Student & Researcher</p>
-        <p>Wageningen University</p>
+        <p>Wageningen University & Research</p>
         <p>Wageningen Economic Research</p>
       </div>
     </div>
@@ -94,8 +96,8 @@ html {
       <div class="container">
         <h2>Philippe Debie</h2>
         <p class="title">PhD Student & Researcher</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University & Research</p>
+        <p>Wageningen Economic Research</p>
       </div>
     </div>
   </div>
@@ -104,10 +106,9 @@ html {
     <div class="card">
       <img src="https://root.cern/assets/images/LM.jpg" alt="Lorenzo" style="width:100%">
       <div class="container">
-        <h2>Lorenzo Moneta</h2>
+        <h2>Dr. Lorenzo Moneta</h2>
         <p class="title">Senior Expert Machine Learning and Statistics</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>CERN</p>
       </div>
     </div>
   </div>
@@ -116,10 +117,9 @@ html {
     <div class="card">
       <img src="https://root.cern/assets/images/JonasRembser.png" alt="Jonas" style="width:100%">
       <div class="container">
-        <h2>Jonas Rembser</h2>
+        <h2>Dr. Jonas Rembser</h2>
         <p class="title">Senior Applied Fellow</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>CERN</p>
       </div>
     </div>
   </div>
@@ -132,8 +132,7 @@ html {
       <div class="container">
         <h2>Paul van Leeuwen</h2>
         <p class="title">Senior Data Scientist</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen Economic Research</p>
       </div>
     </div>
   </div>
@@ -142,10 +141,9 @@ html {
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=3389" alt="Koos" style="width:100%">
       <div class="container">
-        <h2>Koos Gardebroek</h2>
+        <h2>Dr.ir. Koos Gardebroek</h2>
         <p class="title">Associate Professor</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University & Research</p>
       </div>
     </div>
   </div>
@@ -154,10 +152,9 @@ html {
     <div class="card">
       <img src="https://www.uidaho.edu/-/media/UIdaho-Responsive/Images/cals/departments/aers/People/1200x1200-andres-trujillo-barrera.jpg" alt="Andres" style="width:100%">
       <div class="container">
-        <h2>Andres Trujillo-Barrera</h2>
+        <h2>Dr. Andres Trujillo-Barrera</h2>
         <p class="title">Assistant Professor</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>University of Idaho</p>
       </div>
     </div>
   </div>
@@ -168,10 +165,9 @@ html {
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=98594" alt="Serdar" style="width:100%">
       <div class="container">
-        <h2>Serdar Demirel</h2>
+        <h2>Dr. Serdar Demirel</h2>
         <p class="title">Data Scientist</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University & Research</p>
       </div>
     </div>
   </div>
@@ -180,10 +176,9 @@ html {
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446" alt="Tarek" style="width:100%">
       <div class="container">
-        <h2>Tarek AlSkaif</h2>
+        <h2>Dr. Tarek AlSkaif</h2>
         <p class="title">Assistant Professor</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
+        <p>Wageningen University & Research</p>
       </div>
     </div>
   </div>
