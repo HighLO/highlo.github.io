@@ -47,7 +47,6 @@ html {
 }
 
 </style>
-</head>
 <body>
 
 <h1>CERN</h1>
