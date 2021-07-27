@@ -66,10 +66,8 @@ html {
     <div class="card">
       <img src="https://root.cern/assets/images/LM.jpg" alt="Lorenzo" style="width:100%">
       <div class="container">
-        <div class="col-lg-4 d-flex align-items-stretch">
         <h2>Dr. Lorenzo Moneta</h2>
         <p class="title">Senior Expert Machine Learning and Statistics</p>
-        </div>
       </div>
     </div>
   </div>
