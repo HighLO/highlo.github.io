@@ -108,7 +108,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: splash
+      layout: single #use 'splash' for wide text -> only works on "about.md" not the rest
       author_profile: false
 
 category_archive:
