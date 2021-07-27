@@ -1,8 +1,8 @@
 ---
 permalink: /people/
 title: "People"
----
 classes: wide
+---
 
 <html>
 <head>
