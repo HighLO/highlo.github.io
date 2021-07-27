@@ -81,6 +81,7 @@ html {
 
   <div class="column">
     <div class="card">
+      <img src="https://root.cern/assets/images/AN.jpg" alt="Mike" style="width:100%">
       <div class="container">
         <h2>Mike Ross</h2>
         <p class="title">Art Director</p>
