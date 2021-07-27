@@ -118,10 +118,8 @@ html {
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
-  <div class="column">
+  
+   <div class="column">
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=86485" alt="Paul" style="width:100%">
       <div class="container">
@@ -130,8 +128,10 @@ html {
       </div>
     </div>
   </div>
+</div>
 
-  <div class="column">
+<div class="row">
+   <div class="column">
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=3389" alt="Koos" style="width:100%">
       <div class="container">
@@ -150,9 +150,7 @@ html {
       </div>
     </div>
   </div>
-</div>
-
-<div class="row">
+  
   <div class="column">
     <div class="card">
       <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446" alt="Tarek" style="width:100%">
