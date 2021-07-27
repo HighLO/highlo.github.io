@@ -47,21 +47,6 @@ html {
   color: grey;
 }
 
-.button {
-  border: none;
-  outline: 0;
-  display: inline-block;
-  padding: 8px;
-  color: white;
-  background-color: #000;
-  text-align: center;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button:hover {
-  background-color: #555;
-}
 </style>
 </head>
 <body>
@@ -75,7 +60,6 @@ html {
         <p class="title">Professor</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
@@ -88,34 +72,124 @@ html {
         <p class="title">Senior Expert Data Analytics</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
   
   <div class="column">
     <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=89041" alt="Marjolein" style="width:100%">
       <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
+        <h2>Marjolein Verhulst</h2>
+        <p class="title">PhD Student & Researcher</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
       </div>
     </div>
   </div>
 </div>
 
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=97866" alt="Philippe" style="width:100%">
+      <div class="container">
+        <h2>Philippe Debie</h2>
+        <p class="title">PhD Student & Researcher</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://root.cern/assets/images/LM.jpg" alt="Lorenzo" style="width:100%">
+      <div class="container">
+        <h2>Lorenzo Moneta</h2>
+        <p class="title">Senior Expert Machine Learning and Statistics</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="https://root.cern/assets/images/JonasRembser.png" alt="Jonas" style="width:100%">
+      <div class="container">
+        <h2>Jonas Rembser</h2>
+        <p class="title">Senior Applied Fellow</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=86485" alt="Paul" style="width:100%">
+      <div class="container">
+        <h2>Paul van Leeuwen</h2>
+        <p class="title">Senior Data Scientist</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=3389" alt="Koos" style="width:100%">
+      <div class="container">
+        <h2>Koos Gardebroek</h2>
+        <p class="title">Associate Professor</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="http://cormec.eu/wp-content/uploads/2017/11/andrestrujillo.jpg" alt="Andres" style="width:100%">
+      <div class="container">
+        <h2>Andres Trujillo-Barrera</h2>
+        <p class="title">Assistant Professor</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=98594" alt="Serdar" style="width:100%">
+      <div class="container">
+        <h2>Serdar Demirel</h2>
+        <p class="title">Data Scientist</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446" alt="Tarek" style="width:100%">
+      <div class="container">
+        <h2>Tarek AlSkaif</h2>
+        <p class="title">Assistant Professor</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+      </div>
+    </div>
+  </div>
+</div>
+  
 </body>
 </html>
-
-
-<ul>
-  {% for author in site.authors %}
-    <li>
-      <h2>{{ author.name }}</h2>
-      <h3>{{ author.position }}</h3>
-      <p>{{ author.content | markdownify }}</p>
-    </li>
-  {% endfor %}
-</ul>
