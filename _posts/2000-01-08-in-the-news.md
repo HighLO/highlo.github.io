@@ -1,0 +1,17 @@
+---
+title: "In the News"
+bg: orange
+color: black
+fa-icon: check-square-o
+---
+
+### The collaboration has been covered in the media
+<p></p>
+
+* wur.nl [WUR, CERN and CORMEC join forces to protect commodity and financial markets](https://www.wur.nl/en/show/WUR-CERN-and-CORMEC-join-forces-to-protect-commodity-and-financial-markets.htm)
+* home.cern [How particle physics could prevent financial fraud](https://home.cern/news/news/knowledge-sharing/how-particle-physics-could-prevent-financial-fraud)
+* kt.cern [Applying Physics to Financial Markets](https://kt.cern/article/applying-physics-financial-markets)
+* fd.nl [Landbouwuniversiteit speurt met deeltjesversneller naar beursfraude](https://fd.nl/beurs/1335542/landbouwuniversiteit-speurt-met-deeltjesversneller-naar-beursfraude)
+* 1limburg.nl [CERN wil met Limburgse instellingen beursfraude opsporen](https://www.1limburg.nl/cern-wil-met-limburgse-instellingen-beursfraude-opsporen)
+* boerenbusiness.nl [Onderzoek voor meer stabiliteit op termijnmarkt](https://www.boerenbusiness.nl/varkensOUD/artikel/10885939/onderzoek-voor-meer-stabiliteit-op-termijnmarkt)
+* zakenblad.nl [Baanbrekend Limburgs onderzoek naar fluctuaties markten](https://zakenblad.nl/2020/02/24/baanbrekend-limburgs-onderzoek-naar-fluctuaties-markten/)
