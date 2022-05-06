@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 search: true
-title:       "HighLo"
+title:       "HighLO"
 description: "Project HighLO combines particle physics with finance to help protect commodity and financial markets from manipulation."
 source_link: "https://github.com/HighLO/highlo.github.io"
 favicon:     "img/favicon.ico"
