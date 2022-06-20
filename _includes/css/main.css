@@ -73,6 +73,21 @@ hr {
   text-align: center;
   padding: 0 4%;
 }
+.container h1 {
+  text-transform:uppercase;
+}
+.container h1::after {
+  background: none repeat scroll 0 0 #00cdcf;
+  bottom: -13px;
+  content: "";
+  display: block;
+  height: 4px;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 40px;
+  width: 50px;
+}
 .container p, .container ol, .container ul {
   font-size: 17px;
   padding: 0 5%;
@@ -124,6 +139,13 @@ nav {
   background:#2e2e2e;
 }
 
+nav img {
+  height:40px;
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-right:60px;
+}
+
 nav ul {
   list-style:none;
   text-align:center;
@@ -170,8 +192,8 @@ nav ul li:hover, nav ul li.active {
   display:block;
   width:100%;
   min-height:300px;
-  padding:210px 0;
-  background:url(img/bgnoise.png);
+  padding:40px 0;
+  /*background:url(img/bgnoise.png);*/
   /* generated noise from noisetexturegenerator.com */
 }
 
@@ -354,4 +376,13 @@ nav ul li:hover, nav ul li.active {
     -moz-column-count:    2;
     column-count:         2;
   }
+}
+
+
+.collaborator {
+  vertical-align: text-top;
+  width:155px;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:30px;
 }

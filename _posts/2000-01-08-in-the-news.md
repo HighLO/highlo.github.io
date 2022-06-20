@@ -1,12 +1,12 @@
 ---
 title: "In the News"
-bg: orange
+bg: bgwhite
 color: black
-fa-icon: check-square-o
 ---
 
-### The collaboration has been covered in the media
-<p></p>
+# In the news
+
+The collaboration has been covered in the media:
 
 * wur.nl [WUR, CERN and CORMEC join forces to protect commodity and financial markets](https://www.wur.nl/en/show/WUR-CERN-and-CORMEC-join-forces-to-protect-commodity-and-financial-markets.htm)
 * home.cern [How particle physics could prevent financial fraud](https://home.cern/news/news/knowledge-sharing/how-particle-physics-could-prevent-financial-fraud)

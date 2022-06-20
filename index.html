@@ -17,10 +17,16 @@
 <body>
   <div id="main">
 
-    <nav><ul>
+    <nav>
+    <ul>
+      <li>
+          <a href="index.html"><img src = "img/highlo_logo_small.svg" alt="Project HighLO"/></a>
+      </li>
       {% for node in site.posts reversed %}
+        {% if node.title != "home" %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
         <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>
+        {% endif %}
       {% endfor %}
     </ul></nav>
 
@@ -51,14 +57,12 @@
 
     <div id="footer" class="section text-white">
       <div class="container">
-        <!--{% capture foottext %} {% include footer.md %} {% endcapture %}-->
-        <!--{{ foottext | markdownify }}-->
+        {% capture foottext %} {% include footer.md %} {% endcapture %}
+        {{ foottext | markdownify }}
       </div>
     </div>
   </div>
 
-{% include analytics.html %}
 </body>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<script src="site.js"></script>
+
 </html>
