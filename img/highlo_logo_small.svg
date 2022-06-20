@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="54.16161mm"
+   width="47.90345mm"
    height="17.354576mm"
-   viewBox="0 0 54.16161 17.354576"
+   viewBox="0 0 47.90345 17.354576"
    version="1.1"
    id="svg5"
    inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
@@ -24,12 +24,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6819304"
-     inkscape:cx="96.615174"
-     inkscape:cy="36.565128"
-     inkscape:window-width="1906"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="107.76308"
+     inkscape:cy="6.094188"
+     inkscape:window-width="948"
      inkscape:window-height="1166"
-     inkscape:window-x="4"
+     inkscape:window-x="962"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
@@ -55,28 +55,28 @@
      transform="translate(-44.890549,-27.358372)">
     <rect
        id="rect175"
-       width="54.16161"
+       width="47.90345"
        height="17.354576"
        x="44.890549"
        y="27.358372"
-       style="stroke-width:0.245163" />
+       style="stroke-width:0.230565" />
     <rect
        id="rect177"
-       width="52.18763"
+       width="45.978996"
        height="15.484384"
        x="45.854488"
        y="28.262814"
-       style="fill:#ffffff;stroke-width:0.293844" />
+       style="fill:#ffffff;stroke-width:0.275812" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,24.416554,-32.804103)"
+       transform="matrix(0.26458333,0,0,0.26458333,21.241552,-32.804103)"
        id="text61"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect63);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="102.08008"
          y="275.09375"
-         id="tspan7595"><tspan
+         id="tspan3479"><tspan
            style="font-weight:bold;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold'"
-           id="tspan7593">HIGHLO</tspan></tspan></text>
+           id="tspan3477">HIGHLO</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"

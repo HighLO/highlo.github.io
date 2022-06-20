@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.6819304"
-     inkscape:cx="96.615174"
-     inkscape:cy="36.565128"
-     inkscape:window-width="1906"
-     inkscape:window-height="1166"
-     inkscape:window-x="4"
-     inkscape:window-y="24"
+     inkscape:zoom="3.3638608"
+     inkscape:cx="108.06036"
+     inkscape:cy="6.094188"
+     inkscape:window-width="1920"
+     inkscape:window-height="1200"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -55,28 +55,28 @@
      transform="translate(-44.889524,-27.358372)">
     <rect
        id="rect175"
-       width="54.16161"
+       width="47.90345"
        height="17.354576"
        x="44.890549"
        y="27.358372"
-       style="stroke-width:0.245163" />
+       style="stroke-width:0.230565" />
     <rect
        id="rect177"
-       width="52.18763"
+       width="45.978996"
        height="15.484384"
        x="45.854488"
        y="28.262814"
-       style="fill:#ffffff;stroke-width:0.293844" />
+       style="fill:#ffffff;stroke-width:0.275812" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,24.416554,-32.804103)"
+       transform="matrix(0.26458333,0,0,0.26458333,21.241552,-32.804103)"
        id="text61"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect63);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="102.08008"
          y="275.09375"
-         id="tspan5383"><tspan
+         id="tspan876"><tspan
            style="font-weight:bold;font-family:'Nimbus Sans';-inkscape-font-specification:'Nimbus Sans, Bold'"
-           id="tspan5381">HIGHLO</tspan></tspan></text>
+           id="tspan874">HIGHLO</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
