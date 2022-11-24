@@ -18,22 +18,20 @@ search: true
 title:       "HighLO"
 description: "Project HighLO combines particle physics with finance to help protect commodity and financial markets from manipulation."
 source_link: "https://github.com/HighLO/highlo.github.io"
-favicon:     "img/favicon.ico"
-touch_icon:  "img/apple-touch-icon.png"
+favicon:     "assets/favicon.ico"
+touch_icon:  "assets/apple-touch-icon.png"
 
 
 ### template colors, used site-wide via css ###
 colors:
-  black:     '#111111'
-  white:     '#f8f8f8'
-  blue:      '#49a7e9'
-  green:     '#9bcf2f'
-  purple:    '#c869bf'
-  orange:    '#fab125'
-  turquoise: '#0fbfcf'
-  bgwhite:   '#ffffff'
-  bggray:    '#e9e9e9'
-  highloblue: '#00cdcf'
+  darkblue:   '#0a4e80'
+  mediumblue: '#0f75bc'
+  brightblue: '#00aeef'
+  green:      '#2ca296'
+  black:      '#111111'
+  white:      '#f8f8f8'
+  bgwhite:    '#ffffff'
+  bggray:     '#e9e9e9'
 
 kramdown:
   auto_ids:  false

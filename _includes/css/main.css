@@ -77,7 +77,7 @@ hr {
   text-transform:uppercase;
 }
 .container h1::after {
-  background: none repeat scroll 0 0 #00cdcf;
+  background: none repeat scroll 0 0 {{ site.colors.green }};
   bottom: -13px;
   content: "";
   display: block;
