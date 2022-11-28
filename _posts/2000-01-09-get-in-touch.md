@@ -1,5 +1,5 @@
 ---
-title: "Get in Touch"
+title: "Contact"
 bg: bgwhite
 color: black
 ---
