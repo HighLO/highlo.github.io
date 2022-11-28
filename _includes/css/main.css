@@ -386,3 +386,10 @@ nav ul li:hover, nav ul li.active {
   margin-right:10px;
   margin-bottom:30px;
 }
+
+.partnerlogo {
+  background-color: white;
+  border: 1px solid #dddddd;
+  margin: 10px 10px 10px 10px;
+  height: 160px;
+}
