@@ -334,10 +334,27 @@ nav ul li:hover, nav ul li.active {
 
 .collaborator {
   vertical-align: text-top;
-  width:155px;
+  width:190px;
   margin-left:10px;
   margin-right:10px;
   margin-bottom:30px;
+}
+
+.collaborator-img-wrapper {
+  padding:10px 40px 10px 0px;
+}
+
+.collaborator-img {
+  height:auto;
+  border-radius:30%;
+}
+
+.collaborator-caption {
+  text-align:left;
+}
+
+.collaborator-name {
+  font-weight: bold;
 }
 
 .partnerlogo {
