@@ -28,30 +28,35 @@ color: black
 <span class="label conference">Conference</span> Journal of Physics Conference Series
 <br>
 <i>May 2022</i>
+<br>
 
 <b>Using and Adapting ROOT for High-frequency Financial Market Data</b>
 <br>
 <span class="label presentation">Presentation</span> ROOT Users Workshop
 <br>
 <i>May 2022</i>
-  
+<br>
+
 <b>A Framework to measure the Impact of Limit Orders on the Quoted Price using Particle Physics Tools</b>
 <br>
 <span class="label conference">Conference</span> NCCC-134 Conference on Applied Commodity Price Analysis, Forecasting, and Market Risk Management
 <br>
 <i>April 2022</i>
-  
+<br>
+
 <b><a href="https://doi.org/10.1111/eufm.12353" target="_blank">Unravelling the JPMorgan Spoofing Case Using Particle Physics Visualization Methods</a></b>
 <br>
 <span class="label journal">Journal</span> European Financial Management
 <br>
 <i>January 2022</i>
-  
+<br>
+
 <b>Using ROOT to Analyse High-Frequency Finance Data</b>
 <br>
 <span class="label conference">Conference</span> 20th International Workshop on Advanced Computing and Analysis Techniques in Physics Research
 <br>
 <i>November 2021</i>
+<br>
   
 <b><a href="https://doi.org/10.1002/fut.22251" target="_blank">When two worlds collide: using particle physics tools to visualize the limit order book</a></b>
 <br>
