@@ -436,4 +436,27 @@ section {
     -webkit-flex-direction: column;
     flex-direction: column;
   }
+
+  .pillar-container {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+
+  .vision-pillar-container {
+    -webkit-flex-direction: column;
+    flex-direction: column;
+  }
+}
+
+.label {
+}
+.news {background-color: #2da196;} /* Green */
+.blog {background-color: ##1b75bc;} /* Medium Blue */
+
+.conference {background-color: #00aeef;} /* Light Blue */
+.presentation {background-color: #777777;} /* Grey */
+.journal {background-color: #0d4e80;} /* Dark Blue */
+
+b {
+  font-weight: bold;
 }
