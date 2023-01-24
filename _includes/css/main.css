@@ -410,14 +410,24 @@ section {
   display: flex;
 }
 
-/* Style the content */
-.pillar {
-  -webkit-flex: 3;
-  -ms-flex: 3;
-  flex: 3;
-  background-color: #f1f1f1;
-  padding: 10px;
+.vision-pillar-container {
+  display: flex;
+}
+
+.vision-pillar-container > div {
+  /*background-color: #f1f1f1;*/
   margin: 10px;
+  padding: 20px;
+}
+
+.pillar-container {
+  display: flex;
+}
+
+.pillar-container > div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 20px;
 }
 
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
