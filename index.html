@@ -26,11 +26,11 @@
 <!--Inspired by https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
 <div class="topnav" id="myTopnav">
       <div class="container center">
-  <a href="#top" class="active">Home</a>
+  <a href="#top" class="active" onclick="collapseTopnav()">Home</a>
   {% for node in site.posts reversed %}
     {% if node.title != "home" %}
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-    <a href="#{{id}}">{{node.title}}</a>
+    <a href="#section-{{id}}" onclick="collapseTopnav()">{{node.title}}</a>
     {% endif %}
   {% endfor %}
 
@@ -38,7 +38,7 @@
     <i class="fa fa-bars"></i>
   </a>
       </div>
-</div> 
+</div>
 
     <div class="banner">
       <div class="container center">
@@ -49,6 +49,8 @@
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
+      <div id="section-{{id}}" class="sectiondivider">
+      </div>
       <div id="{{id}}" class="section p-{{id}}">
         <div class="container {{ page.style }}">
           {{ page.content }}
@@ -97,7 +99,7 @@ for (i = 0; i < coll.length; i++) {
       content.style.maxHeight = null;
     } else {
       content.style.maxHeight = content.scrollHeight + "px";
-    } 
+    }
   });
 }
 </script>
@@ -111,6 +113,11 @@ function myFunction() {
   } else {
     x.className = "topnav";
   }
+}
+
+function collapseTopnav() {
+  var x = document.getElementById("myTopnav");
+  x.className = "topnav";
 }
 </script>
 
