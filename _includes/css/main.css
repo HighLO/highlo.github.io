@@ -272,19 +272,20 @@ hr {
   margin-left:10px;
   margin-right:10px;
   margin-bottom:30px;
+  display: inline-block;
 }
 
 .collaborator-img-wrapper {
-  padding:10px 40px 10px 0px;
+  padding:10px 20px 10px 20px;
 }
 
-.collaborator-img {
+.collaborator img {
   height:auto;
   border-radius:30%;
 }
 
-.collaborator-caption {
-  text-align:left;
+.collaborator figcaption {
+  text-align:center;
 }
 
 .collaborator-name {
@@ -416,6 +417,7 @@ b {
   border: 1px solid #dddddd;
   margin: 10px 10px 10px 10px;
   height: 160px;
+  display: inline-block;
 }
 
 @media screen and (max-width: 600px) {
