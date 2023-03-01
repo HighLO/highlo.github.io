@@ -28,9 +28,11 @@
       <div class="container center">
   <a href="#top" class="active" onclick="collapseTopnav()">Home</a>
   {% for node in site.posts reversed %}
+    {% if node.title != "none" %}
     {% if node.title != "home" %}
     {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
     <a href="#section-{{id}}" onclick="collapseTopnav()">{{node.title}}</a>
+    {% endif %}
     {% endif %}
   {% endfor %}
 
