@@ -292,6 +292,32 @@ hr {
   font-weight: bold;
 }
 
+.affiliated {
+  vertical-align: text-top;
+  width:140px;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:30px;
+  display: inline-block;
+}
+
+.affiliated-img-wrapper {
+  padding:10px 20px 10px 20px;
+}
+
+.affiliated img {
+  height:auto;
+  border-radius:30%;
+}
+
+.affiliated figcaption {
+  text-align:center;
+}
+
+.affiliated-name {
+  font-weight: bold;
+}
+
 .collapsible {
   background-color: #777;
   color: white;
