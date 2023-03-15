@@ -36,3 +36,7 @@ colors:
 kramdown:
   auto_ids:  false
 
+collections:
+  profiles:
+    output: true
+    permalink: /profiles/:path.html
