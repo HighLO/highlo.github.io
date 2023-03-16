@@ -40,3 +40,6 @@ collections:
   profiles:
     output: true
     permalink: /profiles/:path.html
+  publications:
+    output: true
+    permalink: /profiles/:path.html

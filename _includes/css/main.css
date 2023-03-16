@@ -420,6 +420,7 @@ section {
 }
 
 .label {
+  text-transform: capitalize;
 }
 .news {background-color: #2da196;} /* Green */
 .blog {background-color: ##1b75bc;} /* Medium Blue */
