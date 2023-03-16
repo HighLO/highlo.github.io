@@ -13,7 +13,7 @@ color: black
 <b>{{ pub.title }}</b>
 <br>
 <span class="label {{ pub.label }}">{{ pub.label }}</span> {{ pub.where }}
-{% if pub.link contains '://' %}<br><a href="{{ pub.link }}" target="_blank">{{ pub.link }}</a>{% endif %}<br>
+{% if pub.link %}<br><a href="{{ pub.link }}" target="_blank">{{ pub.link }}</a>{% endif %}<br>
 <i>{{ pub.date | date: '%B %Y' }}</i>
 
 {% endfor %}
