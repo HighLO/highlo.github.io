@@ -8,23 +8,15 @@ color: black
 # Affiliated researchers
 
 {% assign people = site.profiles | sort: 'priority' | where: "categories","affiliated" %}
-
 {% assign last_organization = 0 %}
-
 {% for person in people %}
-
 {% if person.organization != last_organization %}
-{% if last_organization != 0 %}
-</center>
+{% if last_organization != 0 %} <br> {% endif %}
+<figure class="affiliated-org">
+<h4> {{ person.organization }} </h4>
+</figure>
 {% endif %}
-
-<h3> {{ person.organization }} </h3>
-
-<center>
-{% endif %}
-
 {% assign last_organization = person.organization %}
-
 <figure class="affiliated">
   <div class="affiliated-img-wrapper">
     <img src="{{ person.picture }}">
@@ -43,5 +35,4 @@ color: black
 {% endif %}
   </figcaption>
 </figure>
-
 {% endfor %}

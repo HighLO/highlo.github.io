@@ -275,11 +275,8 @@ hr {
   display: inline-block;
 }
 
-.collaborator-img-wrapper {
-  padding:10px 20px 10px 20px;
-}
-
 .collaborator img {
+  padding:10px 20px 10px 20px;
   height:auto;
   border-radius:30%;
 }
@@ -292,26 +289,36 @@ hr {
   font-weight: bold;
 }
 
-.affiliated {
+.affiliated-org {
   vertical-align: text-top;
-  width:140px;
-  margin-left:10px;
-  margin-right:10px;
-  margin-bottom:30px;
+  width:195px;
+  margin-left:0px;
+  margin-right:-200px;
+  margin-bottom:-20px;
   display: inline-block;
+  overflow: auto;
 }
 
-.affiliated-img-wrapper {
-  padding:10px 20px 10px 20px;
+.affiliated {
+  vertical-align: text-top;
+  width:390px;
+  margin-left:200px;
+  margin-right:-200px;
+  margin-bottom:10px;
+  display: inline-block;
+  overflow: auto;
 }
 
 .affiliated img {
+  float: left;
+  width:140px;
+  padding:0px 20px 0px 20px;
   height:auto;
   border-radius:30%;
 }
 
 .affiliated figcaption {
-  text-align:center;
+  text-align:left;
 }
 
 .affiliated-name {
