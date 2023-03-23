@@ -412,6 +412,68 @@ section {
   padding: 20px;
 }
 
+.latestnews-container h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.latestnews-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14.3rem, 1fr));
+  grid-gap: 0.5rem;
+}
+
+.latestnews-container > div {
+  background-color: #2da196;
+  margin: 10px;
+  padding: 20px;
+}
+
+#latestnews .date {
+  color: white;
+  font-style: italic;
+}
+
+#latestnews .title {
+  font-weight: bold;
+  margin-top: 12px;
+  height: 120px;
+}
+
+#latestnews .description {
+}
+
+.latestpub-container h3 {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.latestpub-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(14.3rem, 1fr));
+  grid-gap: 0.5rem;
+}
+
+.latestpub-container > div {
+  background-color: #e9e9e9;
+  margin: 10px;
+  padding: 20px;
+}
+
+#latestpub .date {
+  /*color: white;*/
+  font-style: italic;
+}
+
+#latestpub .title {
+  font-weight: bold;
+  margin-top: 12px;
+  height: 100px;
+}
+
+#latestpub .description {
+}
+
 /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
 @media (max-width: 1000px) {
   section {

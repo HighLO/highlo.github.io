@@ -21,20 +21,27 @@
 
         <h1>All news and events</h1>
 
+        <div class="latestnews-container">
+
         {% assign news_sorted = site.news | sort: 'date' | reverse %}
 
         {% for news in news_sorted %}
 
-        <p>
-        <b><a href="{{ news.link }}" target="_blank">{{ news.title }}</a></b>
-        <br>
-        <span class="label news">News</span><i> {{ news.date | date: '%B %-d, %Y'}}</i>
-        <br>
-        {{ news.description | truncatewords: 10 }}
-        <i><a href="{{ news.link }}" target="_blank">[more]</a></i>
-        </p>
+          <div id="latestnews">
+            <div class="date"> {{ news.date | date: '%b %-d, %Y'}}</div>
+            <div class="title"><a href="{{ news.link }}" target="_blank">{{ news.title }}</a></div>
+            {{ news.description | truncatewords: 10 }}
+            <i><a href="{{ news.link }}" target="_blank">[more]</a></i>
+          </div>
 
         {% endfor %}
+
+        </div>
+
+        <center>
+        <br>
+        <b><i><a href="index.html">[back to home]</a></i></b>
+        </center>
 
         </div>
       </div>

@@ -30,10 +30,15 @@
         <br>
         <span class="label {{ pub.label }}">{{ pub.label }}</span> {{ pub.where }}
         {% if pub.link %}<br><a href="{{ pub.link }}" target="_blank">{{ pub.link }}</a>{% endif %}<br>
-        <i>{{ pub.date | date: '%B %Y' }}</i>
+        <i>{{ pub.date | date: '%b %Y' }}</i>
         </p>
 
         {% endfor %}
+
+        <center>
+        <br>
+        <b><i><a href="index.html">[back to home]</a></i></b>
+        </center>
 
         </div>
       </div>
