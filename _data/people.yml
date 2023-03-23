@@ -1,164 +1,42 @@
-Axel Naumann:
-  name        : "Axel Naumann"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Jonas Rembser:
-  name        : "Jonas Rembser"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Lorenzo Moneta:
-  name        : "Lorenzo Moneta"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Joost Pennings:
-  name        : "Joost Pennings"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Marjolein Verhulst:
-  name        : "Marjolein Verhulst"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Philippe Debie:
-  name        : "Philippe Debie"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Paul van Leeuwen:
-  name        : "Paul van Leeuwen"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Koos Gardebroek:
-  name        : "Koos Gardebroek"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Andres Trujillo-Barrera:
-  name        : "Andres Trujillo-Barrera"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Serdar Demirel:
-  name        : "Serdar Demirel"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
-
-Tarek Alskaif:
-  name        : "Tarek Alskaif"
-  bio         : "Something something"
-  avatar      : #"/assets/images/bio-photo-2.jpg"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: #"mailto:billyrick@rick.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: #"https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: #"https://twitter.com/extravagantman"
+- pennings:
+  name: Prof.dr.ir. Joost Pennings
+  title: Professor Marketing & Finance
+  organization: Wageningen University & Research
+  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=4610
+  cv: http://marketing-finance.nl/cv/cvpennings.pdf
+- verhulst:
+  name: Marjolein Verhulst, MSc
+  title: PhD Student & Researcher
+  organization: Wageningen University & Research
+  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=89041
+  linkedin: https://www.linkedin.com/in/marjoleinverhulst/
+- debie:
+  name: Philippe Debie, MSc
+  title: PhD Student & Researcher
+  organization: Wageningen University & Research
+  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=97866
+  linkedin: https://www.linkedin.com/in/philippe-debie-37b24a137/
+- alskaif:
+  name: Dr. Tarek Alskaif
+  title: Assistant Professor
+  organization: Wageningen University & Research
+  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446
+  linkedin: https://www.linkedin.com/in/tarek-alskaif-2aaa532b/
+- naumann:
+  name: Dr. Axel Naumann
+  title: Senior Expert Data Analytics
+  organization: CERN
+  picture: https://root.cern/assets/images/AN.jpg
+  linkedin: https://www.linkedin.com/in/axelnaumann/
+- moneta:
+  name: Dr. Lorenzo Moneta
+  title: Senior Expert Machine Learning and Statistics
+  organization: CERN
+  picture: https://root.cern/assets/images/LM.jpg
+  linkedin: https://www.linkedin.com/in/lorenzo-moneta-982b902/
+- rembser:
+  name: Dr. Jonas Rembser
+  title: Senior Applied Fellow
+  organization: CERN
+  picture: https://root.cern/assets/images/JonasRembser.png
+  linkedin: https://www.linkedin.com/in/jonas-rembser/

@@ -7,9 +7,8 @@ color: black
 
 # Affiliated researchers
 
-{% assign people = site.profiles | sort: 'priority' | where: "categories","affiliated" %}
 {% assign last_organization = 0 %}
-{% for person in people %}
+{% for person in site.data.affiliated %}
 {% if person.organization != last_organization %}
 {% if last_organization != 0 %} <br> {% endif %}
 <figure class="affiliated-org">
