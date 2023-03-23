@@ -1,0 +1,19 @@
+<!--Inspired by https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
+<div class="topnav" id="myTopnav">
+    <div class="container center">
+        <a href="#top" class="active" onclick="collapseTopnav()">Home</a>
+            {% for node in site.posts reversed %}
+            {% if node.title != "none" %}
+            {% if node.title != "home" %}
+            {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
+            <a href="#section-{{id}}" onclick="collapseTopnav()">{{node.title}}</a>
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+            <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+</div>
+
+<script type="text/javascript" src="{{ site.baseurl }}/assets/js/javascripts/topnav.js"></script>

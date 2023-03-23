@@ -2,45 +2,17 @@
 ---
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ site.title }}</title>
-  <meta name="keywords" content="{{ site.keywords }}">
-  <meta name="description" content="{{ site.description }}">
-  <link rel="stylesheet" href="combo.css">
-  <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
-  {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
-  {% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-</head>
+
+{% include head.html %}
+
+
 <body>
 
   <script src="https://kit.fontawesome.com/e441288905.js" crossorigin="anonymous"></script>
 
   <div id="main">
 
-
-<!--Inspired by https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
-<div class="topnav" id="myTopnav">
-      <div class="container center">
-  <a href="#top" class="active" onclick="collapseTopnav()">Home</a>
-  {% for node in site.posts reversed %}
-    {% if node.title != "none" %}
-    {% if node.title != "home" %}
-    {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-    <a href="#section-{{id}}" onclick="collapseTopnav()">{{node.title}}</a>
-    {% endif %}
-    {% endif %}
-  {% endfor %}
-
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-      </div>
-</div>
+  {% include topnav.html %}
 
     <div class="banner">
       <div class="container center">
@@ -79,49 +51,10 @@ Applying particle physics tools to financial data opens up a whole new world of 
       </div>
     {% endfor %}
 
-
-    <div id="footer" class="section text-white">
-      <div class="container">
-        {% capture foottext %} {% include footer.md %} {% endcapture %}
-        {{ foottext | markdownify }}
-      </div>
-    </div>
+  {% include footer.html %}
   </div>
 
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    }
-  });
-}
-</script>
-
-<!--For the responsive menu-->
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-
-function collapseTopnav() {
-  var x = document.getElementById("myTopnav");
-  x.className = "topnav";
-}
-</script>
+  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/javascripts/collapsible.js"></script>
 
 </body>
 
