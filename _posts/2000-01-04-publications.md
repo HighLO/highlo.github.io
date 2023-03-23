@@ -4,7 +4,7 @@ bg: bgwhite
 color: black
 ---
 
-# Publications
+<h1>Latest publications</h1>
 
 {% assign publications = site.publications | sort: 'date' | reverse %}
 
@@ -17,3 +17,8 @@ color: black
 <i>{{ pub.date | date: '%B %Y' }}</i>
 
 {% endfor %}
+
+<center>
+<br>
+<b><i><a href="publications-archive.html">[see all publications]</a></i></b>
+</center>

@@ -1,0 +1,46 @@
+---
+---
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  <script src="https://kit.fontawesome.com/e441288905.js" crossorigin="anonymous"></script>
+
+  <div id="main">
+
+  {% include topnav.html %}
+
+    <div class="spacer">
+    </div>
+
+    <div id="publications" class="section p-publications">
+        <div class="container">
+
+        <h1>All publications</h1>
+
+        {% assign publications = site.publications | sort: 'date' | reverse %}
+
+        {% for pub in publications %}
+
+        <p>
+        <b>{{ pub.title }}</b>
+        <br>
+        <span class="label {{ pub.label }}">{{ pub.label }}</span> {{ pub.where }}
+        {% if pub.link %}<br><a href="{{ pub.link }}" target="_blank">{{ pub.link }}</a>{% endif %}<br>
+        <i>{{ pub.date | date: '%B %Y' }}</i>
+        </p>
+
+        {% endfor %}
+
+        </div>
+      </div>
+
+  {% include footer.html %}
+  </div>
+
+</body>
+
+</html>

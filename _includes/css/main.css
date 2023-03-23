@@ -266,6 +266,10 @@ hr {
   background-color: lightblue !important;
 }
 
+.spacer {
+  padding-top: 40px;
+}
+
 .collaborator {
   vertical-align: text-top;
   width:190px;

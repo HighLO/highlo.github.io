@@ -1,0 +1,47 @@
+---
+---
+<!doctype html>
+<html lang="en">
+
+{% include head.html %}
+
+<body>
+
+  <script src="https://kit.fontawesome.com/e441288905.js" crossorigin="anonymous"></script>
+
+  <div id="main">
+
+  {% include topnav.html %}
+
+    <div class="spacer">
+    </div>
+
+    <div id="news" class="section p-news">
+        <div class="container">
+
+        <h1>All news and events</h1>
+
+        {% assign news_sorted = site.news | sort: 'date' | reverse %}
+
+        {% for news in news_sorted %}
+
+        <p>
+        <b><a href="{{ news.link }}" target="_blank">{{ news.title }}</a></b>
+        <br>
+        <span class="label news">News</span><i> {{ news.date | date: '%B %-d, %Y'}}</i>
+        <br>
+        {{ news.description | truncatewords: 10 }}
+        <i><a href="{{ news.link }}" target="_blank">[more]</a></i>
+        </p>
+
+        {% endfor %}
+
+        </div>
+      </div>
+
+  {% include footer.html %}
+  </div>
+
+</body>
+
+</html>

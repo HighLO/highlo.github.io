@@ -38,11 +38,5 @@ kramdown:
 
 collections:
   profiles:
-    output: true
-    permalink: /profiles/:path.html
   publications:
-    output: true
-    permalink: /publications/:path.html
   news:
-    output: true
-    permalink: /news/:path.html
