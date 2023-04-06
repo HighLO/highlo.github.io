@@ -4,8 +4,38 @@ bg: bggray
 color: black
 ---
 
-# International expert group on market surveillance
+# International expert group on market surveillance (IMS Group)
 
-<center>
-More information coming in April 2023!
-</center>
+<div class="imsgroup-pillar-container">
+
+  <div class="pillar">
+    <center><i class="fa-solid fa-lightbulb fa-2x"></i></center>
+    <h2>
+      About
+    </h2>
+    <p>
+    IMS Group is a collaboration between seventeen regulatory agencies across the world. facilitates international collaboration and bridge the gap between science and industry through co-creation and applying research findings in practice. 
+    </p>
+  </div>
+
+  <div class="pillar">
+    <center><i class="fa-solid fa-bullseye-arrow fa-2x"></i></center>
+    <h2>
+      Objective
+    </h2>
+    <p>
+    IMS Group aims to jointly tackle issues and challenges related to financial market surveillance. Academic research and breakthroughs are combined with expert knowledge from the industry. This allows, among others, for creating consistency in regulation, definitions and interpretations of the law.
+    </p>
+  </div>
+
+  <div class="pillar">
+    <center><i class="fa-solid fa-people-group fa-2x"></i></center>
+    <h2>
+      Members
+    </h2>
+    <p>
+    Exchanges and regulators from the Netherlands, Germany, Switzerland, Italy, United Kingdom, Norway, United States and the European Union are members of IMS Group.
+    </p>
+  </div>
+
+</div>
