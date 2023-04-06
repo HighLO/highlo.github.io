@@ -19,7 +19,7 @@ color: black
   </div>
 
   <div class="pillar">
-    <center><i class="fa-solid fa-bullseye-arrow fa-2x"></i></center>
+    <center><i class="fa-sharp fa-solid fa-bullseye-arrow fa-2x"></i></center>
     <h2>
       Objective
     </h2>
