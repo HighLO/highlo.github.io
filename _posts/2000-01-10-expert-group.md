@@ -6,7 +6,7 @@ color: black
 
 # International expert group on market surveillance (IMS Group)
 
-<div class="imsgroup-pillar-container">
+<div class="vision-pillar-container">
 
   <div class="pillar">
     <center><i class="fa-solid fa-lightbulb fa-2x"></i></center>
@@ -19,7 +19,7 @@ color: black
   </div>
 
   <div class="pillar">
-    <center><i class="fa-sharp fa-solid fa-bullseye-arrow fa-2x"></i></center>
+    <center><i class="fa-solid fa-bullseye fa-2x"></i></center>
     <h2>
       Objective
     </h2>

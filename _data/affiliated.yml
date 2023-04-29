@@ -2,7 +2,7 @@
   name: Dr. Fons Rademakers
   title: Chief Research Officer CERN openlab
   organization: CERN
-  picture: https://media.licdn.com/dms/image/C5603AQHw1Qu1rVJKZQ/profile-displayphoto-shrink_800_800/0/1517696516845?e=1681344000&v=beta&t=2yq3BsTs9huKQc0vhi8OMzs4L2lCRNhkhECczm0Qw6Y
+  picture: assets/images/fons-rademakers.png
   linkedin: https://ch.linkedin.com/in/fonsrademakers/
 - breitwieser:
   name: Dr. Lukas Breitwieser
@@ -14,7 +14,7 @@
   name: Tobias Duswald, MSc
   title: PhD Student BioDynaMo
   organization: CERN
-  picture: https://media.licdn.com/dms/image/C4D03AQEwTP0xg55htg/profile-displayphoto-shrink_800_800/0/1587628280663?e=1681344000&v=beta&t=2ZyFPx2od1SupdaMG6opxV5p1CUxuyZQnELIwABMUOA
+  picture: assets/images/tobias-duswald.png
   linkedin: https://www.linkedin.com/in/tobias-duswald-8a5726158/?originalSubdomain=de
 - daane:
   name: Arjen Daane, MSc
