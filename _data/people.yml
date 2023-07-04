@@ -2,41 +2,41 @@
   name: Prof.dr.ir. Joost Pennings
   title: Professor Marketing & Finance
   organization: Wageningen University & Research
-  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=4610
+  picture: assets/images/joost-pennings.png
   cv: http://marketing-finance.nl/cv/cvpennings.pdf
 - verhulst:
   name: Marjolein Verhulst, MSc
   title: PhD Student & Researcher
   organization: Wageningen University & Research
-  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=89041
+  picture: assets/images/marjolein-verhulst.png
   linkedin: https://www.linkedin.com/in/marjoleinverhulst/
 - debie:
   name: Philippe Debie, MSc
   title: PhD Student & Researcher
   organization: Wageningen University & Research
-  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=97866
+  picture: assets/images/philippe-debie.png
   linkedin: https://www.linkedin.com/in/philippe-debie-37b24a137/
 - alskaif:
   name: Dr.ir. Tarek Alskaif
   title: Assistant Professor
   organization: Wageningen University & Research
-  picture: https://www.vcard.wur.nl/WebServices/GetMedia.ashx?id=94446
+  picture: assets/images/tarek-alskaif.png
   linkedin: https://www.linkedin.com/in/tarek-alskaif-2aaa532b/
 - naumann:
   name: Dr. Axel Naumann
   title: Senior Expert Data Analytics
   organization: CERN
-  picture: https://root.cern/assets/images/AN.jpg
+  picture: assets/images/axel-naumann.png
   linkedin: https://www.linkedin.com/in/axelnaumann/
 - moneta:
   name: Dr. Lorenzo Moneta
   title: Senior Expert Machine Learning and Statistics
   organization: CERN
-  picture: https://root.cern/assets/images/LM.jpg
+  picture: assets/images/lorenzo-moneta.png
   linkedin: https://www.linkedin.com/in/lorenzo-moneta-982b902/
 - rembser:
   name: Dr. Jonas Rembser
   title: Senior Applied Fellow
   organization: CERN
-  picture: https://root.cern/assets/images/JonasRembser.png
+  picture: assets/images/jonas-rembser.png
   linkedin: https://www.linkedin.com/in/jonas-rembser/
