@@ -34,7 +34,7 @@ color: black
       Members
     </h2>
     <p>
-    Exchanges and regulators from the Netherlands, Germany, Switzerland, Italy, United Kingdom, Norway, United States and the European Union are members of IMS Group.
+    Exchanges and regulators from the Netherlands, Germany, France, Switzerland, Italy, United Kingdom, Norway, United States and the European Union are members of IMS Group.
     </p>
   </div>
 
