@@ -14,7 +14,7 @@ color: black
       About
     </h2>
     <p>
-    IMS Group is a collaboration between eighteen regulatory agencies across the world. It facilitates international collaboration and bridge the gap between science and industry through co-creation and applying research findings in practice. 
+    IMS Group is a collaboration between eighteen regulatory agencies across the world. It facilitates international collaboration and bridges the gap between high-energy physics, regulators and exchanges through co-creation and applying research findings in practice. 
     </p>
   </div>
 
