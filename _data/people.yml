@@ -22,12 +22,12 @@
   organization: Wageningen University & Research
   picture: assets/images/tarek-alskaif.png
   linkedin: https://www.linkedin.com/in/tarek-alskaif-2aaa532b/
-- naumann:
-  name: Dr. Axel Naumann
-  title: Senior Expert Data Analytics
+- piparo:
+  name: Dr. Danilo Piparo
+  title: ROOT Project Leader
   organization: CERN
-  picture: assets/images/axel-naumann.png
-  linkedin: https://www.linkedin.com/in/axelnaumann/
+  picture: assets/images/danilo-piparo.jpg
+  linkedin: https://www.linkedin.com/in/danilo-piparo/
 - moneta:
   name: Dr. Lorenzo Moneta
   title: Senior Expert Machine Learning and Statistics
