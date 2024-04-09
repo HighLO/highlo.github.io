@@ -1,5 +1,5 @@
 ---
-title: "Research areas and methods of interest in European intraday electricity market research—A systematic literature review"
+title: "Research areas and methods of interest in European intraday electricity market research-A systematic literature review"
 where: Sustainable Energy, Grids and Networks
 label: journal
 date: April 2024
