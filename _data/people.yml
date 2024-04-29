@@ -28,6 +28,12 @@
   organization: CERN
   picture: assets/images/danilo-piparo.jpg
   linkedin: https://www.linkedin.com/in/danilo-piparo/
+- naumann:
+  name: Dr. Axel Naumann
+  title: Senior Expert Data Analytics
+  organization: CERN
+  picture: assets/images/axel-naumann.png
+  linkedin: https://www.linkedin.com/in/axelnaumann/
 - moneta:
   name: Dr. Lorenzo Moneta
   title: Senior Expert Machine Learning and Statistics
