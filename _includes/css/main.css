@@ -132,7 +132,7 @@ hr {
   z-index:100;
   top:0;
   left:0;
-  background:#2e2e2e;
+  background: {{ site.colors.bgblack }};
   text-align:center;
 }
 
@@ -211,7 +211,7 @@ hr {
   padding: 8px 0;
   min-height:0;
   text-align:center;
-  background-color:#2e2e2e;
+  background-color: {{ site.colors.bgblack }};
   background-image:none;
 }
 #footer .container p { font-size:13px; margin:0; }
