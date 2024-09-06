@@ -1,0 +1,36 @@
+---
+layout: subpage
+---
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+{% include head.html %}
+
+
+<body>
+
+  <script src="https://kit.fontawesome.com/e441288905.js" crossorigin="anonymous"></script>
+
+  <div id="main">
+
+  {% include topnav.html %}
+
+    <div class="banner">
+    </div>
+
+  <div id="section-0" class="sectiondivider">
+  </div>
+  <div id="0" class="section p-0">
+    <div class="container {{ page.style }}">
+      {{ content }}
+    </div>
+  </div>
+
+  {% include footer.html %}
+  </div>
+
+  <script type="text/javascript" src="{{ site.baseurl }}/assets/js/javascripts/collapsible.js"></script>
+
+</body>
+
+</html>
