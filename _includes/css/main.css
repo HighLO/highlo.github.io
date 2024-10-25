@@ -502,6 +502,7 @@ section {
 .presentation {background-color: #777777;} /* Grey */
 .journal {background-color: #0d4e80;} /* Dark Blue */
 .working-paper {background-color: #2da196;} /* Green */
+.dissertation {background-color: #0f75bc;} /* Denim Blue */
 
 b {
   font-weight: bold;
