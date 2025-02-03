@@ -14,17 +14,15 @@ Financial markets generate vast amounts of high-frequency data, requiring **effi
 
 ## Key Features of the MSA Lab  
 
-### 1. High-Frequency Data Processing with ROOT  
-Handling large-scale financial data requires specialized tools. **ROOT**, originally designed to process petabytes of data from particle physics experiments, enables the MSA Lab to analyze market activity at the **microsecond level**, ensuring detailed and accurate detection of manipulative behavior.  
+* **High-Frequency Data Processing with ROOT** – Handling large-scale financial data requires specialized tools. **ROOT**, originally designed to process petabytes of data from particle physics experiments, enables the MSA Lab to analyze market activity at the **microsecond level**, ensuring detailed and accurate detection of manipulative behavior.  
 
-### 2. Interactive Market Visualization 
-Understanding market behavior requires more than just raw data—it requires **intuitive visualization tools**. The MSA Lab includes an **interactive LOB visualization module**, allowing regulators to explore trading patterns across different time scales, from high-level trends to individual transactions.  
+* **Interactive Market Visualization** – Understanding market behavior requires more than just raw data—it requires **intuitive visualization tools**. The MSA Lab includes an **interactive LOB visualization module**, allowing regulators to explore trading patterns across different time scales, from high-level trends to individual transactions.  
 
-### 3. Measuring the Market Impact on a Microsecond Level  
-Market events do not occur in isolation. The **impact profile module** in MSA Lab allows regulators to analyze how specific market events, such as price movements, affect other markets over time. This provides deeper insights into interdependencies and potential spillover effects.  
+* **Measuring the Market Impact on a Microsecond Level** – Market events do not occur in isolation. The **impact profile module** in MSA Lab allows regulators to analyze how specific market events, such as price movements, affect other markets over time. This provides deeper insights into interdependencies and potential spillover effects.  
 
-### 4. A Transparent and Customizable Framework  
-Unlike many existing market surveillance systems, MSA Lab prioritizes **transparency and customizability**. Regulators and exchanges using the system gain **full access to the source code**, ensuring that methodologies can be validated and tailored to specific market needs.  
+* **Rule-Based Manipulation Detection** – The MSA Lab identifies market manipulation using clearly defined statistical rules, avoiding black-box AI models.
+
+* **A Transparent and Customizable Framework** – Unlike many existing market surveillance systems, MSA Lab prioritizes **transparency and customizability**. Regulators and exchanges using the system gain **full access to the source code**, ensuring that methodologies can be validated and tailored to specific market needs.  
 
 ## Designed for Regulators and Exchanges  
 
