@@ -10,7 +10,11 @@ For the past several years, the **Market Surveillance Analytics Lab (MSA Lab)** 
 
 ## Bridging High-Energy Physics and Financial Market Analysis  
 
-Financial markets generate vast amounts of high-frequency data, requiring **efficient, high-performance analysis methods** to detect anomalies. Many of the challenges faced in market surveillance—such as identifying rare patterns in large datasets—are similar to those encountered in particle physics. The MSA Lab leverages **ROOT**, a data analysis framework developed at CERN, to bring **high-speed processing and statistical precision** to financial market surveillance.  
+Financial markets generate vast amounts of high-frequency data, requiring **efficient, high-performance analysis methods** to detect anomalies. Many of the challenges faced in market surveillance—such as identifying rare patterns in large datasets—are similar to those encountered in particle physics. The MSA Lab leverages **ROOT**, a data analysis framework developed at CERN, to bring **high-speed processing and statistical precision** to financial market surveillance.
+
+<center>
+    <img src="assets/msalab.png" alt="MSA Lab" style="width: 80%">
+</center>
 
 ## Key Features of the MSA Lab  
 
@@ -36,14 +40,15 @@ The MSA Lab represents a continued effort to apply **scientific methodologies to
 
 A demo version of the MSA Lab is hosted at CERN, showcasing key functionalities including high-frequency data visualization, impact analysis, and manipulation detection. This demo allows prospective collaborators to explore the platform's capabilities and evaluate its potential for regulatory use.
 
-To request full access or discuss potential collaboration, please contact info@highlo.org.
+To request access or discuss potential collaboration, please contact info@highlo.org.
 
 <center>
-    <img src="assets/msalab.png" alt="MSA Lab" style="width: 80%">
 
-<a href="https://hdash.cern.ch/" style="display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
+<a href="https://hdash.cern.ch/" style="width: 300px; display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
     Try the Demo
 </a>
 
 </center>
+
+The demo requires a CERN light account.
 
