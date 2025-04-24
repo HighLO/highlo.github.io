@@ -13,7 +13,7 @@ For the past several years, the **Market Surveillance Analytics Lab (MSA Lab)** 
 Financial markets generate vast amounts of high-frequency data, requiring **efficient, high-performance analysis methods** to detect anomalies. Many of the challenges faced in market surveillance—such as identifying rare patterns in large datasets—are similar to those encountered in particle physics. The MSA Lab leverages **ROOT**, a data analysis framework developed at CERN, to bring **high-speed processing and statistical precision** to financial market surveillance.
 
 <center>
-    <img src="assets/msalab.png" alt="MSA Lab" style="width: 80%">
+    <img src="assets/msalab.png" alt="MSA Lab" style="width: 80%; margin-bottom: 2rem;">
 </center>
 
 ## Key Features of the MSA Lab  
@@ -44,11 +44,11 @@ To request access or discuss potential collaboration, please contact info@highlo
 
 <center>
 
-<a href="https://hdash.cern.ch/" style="width: 300px; display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
+<a href="https://hdash.cern.ch/" style="width: 300px; display: inline-block; margin-top: 1.5rem; margin-bottom: 2rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
     Try the Demo
 </a>
 
 </center>
 
-The demo requires a CERN light account.
+The demo requires a CERN light account, instructions will follow after access is granted.
 
