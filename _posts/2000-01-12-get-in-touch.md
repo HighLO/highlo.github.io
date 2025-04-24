@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-bg: bgwhite
+bg: bggray
 color: black
 ---
 
