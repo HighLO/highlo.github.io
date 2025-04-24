@@ -31,3 +31,13 @@ The MSA Lab is designed **exclusively for regulators and regulated exchanges**, 
 ## Advancing Market Surveillance Through Scientific Collaboration  
 
 The MSA Lab represents a continued effort to apply **scientific methodologies to financial markets**, demonstrating the value of interdisciplinary collaboration between **finance and high-energy physics**. By integrating advanced data analysis techniques into market surveillance, it enables regulators and exchanges to enhance **efficiency, accuracy, and transparency** in detecting market manipulation.  
+
+<center>
+    <img src="assets/msalab.png" alt="MSA Lab">
+
+<a href="https://hdash.cern.ch/" style="display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
+    Try the Demo
+</a>
+    
+</center>
+
