@@ -32,12 +32,18 @@ The MSA Lab is designed **exclusively for regulators and regulated exchanges**, 
 
 The MSA Lab represents a continued effort to apply **scientific methodologies to financial markets**, demonstrating the value of interdisciplinary collaboration between **finance and high-energy physics**. By integrating advanced data analysis techniques into market surveillance, it enables regulators and exchanges to enhance **efficiency, accuracy, and transparency** in detecting market manipulation.  
 
+## Try the Demo hosted at CERN
+
+A demo version of the MSA Lab is hosted at CERN, showcasing key functionalities including high-frequency data visualization, impact analysis, and manipulation detection. This demo allows prospective collaborators to explore the platform's capabilities and evaluate its potential for regulatory use.
+
+To request full access or discuss potential collaboration, please contact info@highlo.org.
+
 <center>
-    <img src="assets/msalab.png" alt="MSA Lab">
+    <img src="assets/msalab.png" alt="MSA Lab" style="width: 80%">
 
 <a href="https://hdash.cern.ch/" style="display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
     Try the Demo
 </a>
-    
+
 </center>
 
