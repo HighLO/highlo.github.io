@@ -22,7 +22,7 @@ Voluntary participation: You can stop at any time without providing a reason.
 
 At the end of the survey, you will have the option to volunteer for a follow-up interview to discuss your experiences in more depth.
 
-<div style="width: 100%; height: 1200px;">
+<div style="width: 100%; height: 800px;">
     <iframe src="https://qualtricsxmwgrwx8pr8.qualtrics.com/jfe/form/SV_e9Tg6qaETD2Pqfk"
         width="100%"
         height="100%"
