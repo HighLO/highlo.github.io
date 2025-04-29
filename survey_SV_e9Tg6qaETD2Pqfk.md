@@ -16,8 +16,8 @@ The Market Abuse Regulation (MAR) is a set of European Union rules designed to e
 
 Regulators increasingly use AI-driven detection tools to monitor trading behavior. However, these systems must follow Fairness, Accountability, Transparency, Accuracy, and Autonomy (FATAA) principles to ensure that enforcement is neutral and unbiased. This survey will explore how traders (Like yourself) perceive AI-based enforcement and its impact on compliance.
 
-Estimated time to complete: 15 minutes
-Confidentiality: All responses will remain anonymous and used solely for academic research.
+Estimated time to complete: 15 minutes<br>
+Confidentiality: All responses will remain anonymous and used solely for academic research.<br>
 Voluntary participation: You can stop at any time without providing a reason.
 
 At the end of the survey, you will have the option to volunteer for a follow-up interview to discuss your experiences in more depth.
