@@ -8,6 +8,6 @@ color: black
 
 <center>
 
-<p>To apply as a future partner and for media enquiries please contact <a href="mailto:highlo-info@cern.ch">highlo-info@cern.ch</a>.</p>
+<p>To apply as a future partner and for media enquiries please contact <a href="mailto:info@highlo.org">info@highlo.org</a>.</p>
 
 </center>
