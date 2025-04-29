@@ -22,7 +22,7 @@ Voluntary participation: You can stop at any time without providing a reason.
 
 At the end of the survey, you will have the option to volunteer for a follow-up interview to provide deeper insights into MAR enforcement.
 
-<div style="width: 100%; height: 700px;">
+<div style="width: 100%; height: 1200px;">
   <iframe src="https://qualtricsxmwgrwx8pr8.qualtrics.com/jfe/form/SV_9mlvmsZtqti2Hm6"
           width="100%"
           height="100%"
