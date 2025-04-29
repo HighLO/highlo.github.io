@@ -1,16 +1,16 @@
 <!--Inspired by https://www.w3schools.com/howto/howto_js_topnav_responsive.asp-->
 <div class="topnav" id="myTopnav">
     <div class="container center">
-        <a href="{{ site.baseurl }}/#top" class="active" onclick="collapseTopnav()">Home</a>
+        <a href="{{ site.baseurl }}/#top" class="active" onclick="collapseTopnav()" style="font-size: 15px">Home</a>
         {% for node in site.posts reversed %}
         {% if node.title != "none" %}
         {% if node.title != "home" %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
-        <a href="{{ site.baseurl }}/#section-{{id}}" onclick="collapseTopnav()">{{node.title}}</a>
+        <a href="{{ site.baseurl }}/#section-{{id}}" onclick="collapseTopnav()" style="font-size: 15px">{{node.title}}</a>
         {% endif %}
         {% endif %}
         {% endfor %}
-        <a href="{{ site.baseurl }}/msalab" onclick="collapseTopnav()">MSA Lab</a>
+        <a href="{{ site.baseurl }}/msalab" onclick="collapseTopnav()" style="font-size: 15px">MSA Lab</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()"><i class="fa fa-bars"></i></a>
     </div>
 </div>
