@@ -6,27 +6,24 @@ layout: subpage
 
 {% include head.html %}
 
-
 <body>
 
   <script src="https://kit.fontawesome.com/e441288905.js" crossorigin="anonymous"></script>
 
-  <div id="main">
+  <div id="main" style="min-height: 100vh; display: flex; flex-direction: column;">
 
-  {% include topnav.html %}
+    {% include topnav.html %}
 
-    <div class="banner">
-    </div>
+    <main style="flex: 1; margin-top: 30px;">
+      <div id="0" class="section p-0">
+        <div class="container {{ page.style }}">
+          {{ content }}
+        </div>
+      </div>
+    </main>
 
-  <div id="section-0" class="sectiondivider">
-  </div>
-  <div id="0" class="section p-0">
-    <div class="container {{ page.style }}">
-      {{ content }}
-    </div>
-  </div>
-
-  {% include footer.html %}
+    {% include footer.html %}
+  
   </div>
 
   <script type="text/javascript" src="{{ site.baseurl }}/assets/js/javascripts/collapsible.js"></script>
