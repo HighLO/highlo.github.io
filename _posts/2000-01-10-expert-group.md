@@ -39,3 +39,5 @@ color: black
   </div>
 
 </div>
+
+More information: <a href="https://www.highlo.org/ims2025_announcement">IMS Group Meeting 2025</a>
