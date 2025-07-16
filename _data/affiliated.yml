@@ -34,12 +34,24 @@
   organization: Wageningen University & Research
   picture: assets/images/koos-gardebroek.png
   researchgate: https://www.researchgate.net/profile/Cornelis-Gardebroek
+- bennin:
+  name: Dr. Kwabena Ebo Bennin
+  title: Assistant Professor
+  organization: Wageningen University & Research
+  picture: assets/images/kwabena-ebo-bennin.png
+  linkedin: https://www.linkedin.com/in/ebo-bennin/
 - post:
   name: Dr. Thomas Post
   title: Associate Professor Finance
   organization: Maastricht University
   picture: assets/images/thomas-post.png
   linkedin: https://nl.linkedin.com/in/thomas-post-56987b25
+- ripani:
+  name: Daniele Maria Ripani, MSc
+  title: PhD Candidate & Researcher
+  organization: Maastricht University
+  picture: assets/images/daniele-ripani.jpg
+  linkedin: https://linkedin.com/in/daniele-maria-ripani
 - trujillo-berrera:
   name: Dr. Andrés Trujillo-Barrera
   title: Associate Professor
