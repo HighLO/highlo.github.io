@@ -10,6 +10,12 @@
   organization: Wageningen University & Research
   picture: assets/images/tarek-alskaif.jpg
   linkedin: https://www.linkedin.com/in/tarek-alskaif-2aaa532b/
+- bennin:
+  name: Dr. Kwabena Ebo Bennin
+  title: Assistant Professor
+  organization: Wageningen University & Research
+  picture: assets/images/kwabena-ebo-bennin.png
+  linkedin: https://www.linkedin.com/in/ebo-bennin/
 - verhulst:
   name: Dr. Marjolein Verhulst
   title: Researcher
@@ -58,3 +64,9 @@
   organization: CERN
   picture: assets/images/alyla-borglund.jpg
   linkedin: https://www.linkedin.com/in/aylaborglund/
+- ripani:
+  name: Daniele Maria Ripani, MSc
+  title: PhD Candidate & Researcher
+  organization: Maastricht University
+  picture: assets/images/daniele-ripani.jpg
+  linkedin: https://linkedin.com/in/daniele-maria-ripani
