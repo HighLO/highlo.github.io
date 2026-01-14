@@ -13,7 +13,7 @@ color: black
 </p>
 
 <a href="{{ site.baseurl }}/msalab" style="display: inline-block; margin-top: 1.5rem; padding: 0.75rem 1.5rem; background-color: {{ site.colors.green }}; color: #ffffff; text-decoration: none; font-weight: 600;">
-    More Information and Try the Demo
+    More information and try the demo
 </a>
 
 </center>
