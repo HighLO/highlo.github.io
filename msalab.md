@@ -6,7 +6,9 @@ bg: bggray
 
 # MSA Lab: Advancing Market Surveillance with High-Energy Physics Tools  
 
-For the past several years, the **Market Surveillance Analytics (MSA) Lab** has been developed as part of project HighLO. By applying computational techniques originally designed for high-energy physics, the MSA Lab provides regulators and exchanges with a scalable, transparent, and scientifically rigorous approach to detecting market manipulation.  
+For the past several years, the **Market Surveillance Analytics (MSA) Lab** has been developed as part of project HighLO. By applying computational techniques originally designed for high-energy physics, the MSA Lab provides regulators and exchanges with a scalable, transparent, and scientifically rigorous approach to detecting market manipulation.
+
+> A paper fully outlining the MSA Lab is forthcoming in the Journal of Financial Compliance
 
 ## Bridging High-Energy Physics and Financial Market Analysis  
 
